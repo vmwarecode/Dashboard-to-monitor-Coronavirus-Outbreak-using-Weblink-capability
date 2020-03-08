@@ -1,0 +1,50 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1-1",
+      "creationTime": 1583624337022,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "d70a3b5a-75f2-4f7e-b36b-3df7156f1dfe",
+      "importAttempts": 0,
+      "importComplete": true,
+      "lastUpdateTime": 1583624406875,
+      "lastUpdateUserId": "e68e9cea-1694-4403-ad5c-07fafe1ee986",
+      "locked": false,
+      "name": "Coronavirus Covid-19 Dashboard",
+      "rank": 0,
+      "shared": false,
+      "states": [],
+      "temporary": false,
+      "userId": "e68e9cea-1694-4403-ad5c-07fafe1ee986",
+      "widgetInteractions": [],
+      "widgets": [{
+         "collapsed": false,
+         "config": {
+            "locationFile": "",
+            "locationUrl": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+            "refreshContent": {"refreshContent": true},
+            "refreshInterval": 300,
+            "title": "Coronavirus Covid-19 Dashboard",
+            "viewModeHTML": true
+         },
+         "gridsterCoords": {
+            "h": 16,
+            "w": 12,
+            "x": 1,
+            "y": 1
+         },
+         "height": 894,
+         "id": "3a619639-5c7d-47be-bcca-59d51211639d",
+         "title": "Coronavirus Covid-19 Dashboard",
+         "type": "TextDisplay"
+      }]
+   }],
+   "entries": {},
+   "uuid": "701b14f5-57df-4739-ad39-1e4e2ed3b325"
+}
